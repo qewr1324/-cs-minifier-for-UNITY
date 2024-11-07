@@ -4,6 +4,7 @@
    <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">
    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white">
    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
+   <img src="https://img.shields.io/badge/Apache%20Licence-2.0-0091ea?style=flat&labelColor=0071b7">
 </p>
 
 
@@ -26,6 +27,7 @@ It is a project that is supposed to be used inside a special software.
 You can use the following guide for <br><br>
 
 ## 📍Note: Before using the package, remove all *```//Comments```* from your file.<br>
+  <hr>
   
 🔍 You can check my *[games](https://B2n.ir/my-myket)* and other *[arts](https://B2n.ir/artstation)*:<br>
 <br>
