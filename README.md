@@ -17,7 +17,7 @@
 editor.cs
 minifier.cs
 ```
-You can also use the */```cs-minifier Render```/* video for how to use the package.
+You can also use the *|```cs-minifier Render```|* video for how to use the package.
 ```
 cs-minifier Render.mp4
 ```
