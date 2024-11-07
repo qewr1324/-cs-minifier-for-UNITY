@@ -25,8 +25,10 @@ You can also use the *|```cs-minifier Render```|* video for how to use the packa
 cs-minifier Render.mp4
 ```
 I made this package for other than Unity and I didn't make it completely for Unity, this is a part of
-It is a project that is supposed to be used inside a special software.
-You can use the following guide for <br><br>
+It is a project that is supposed to be used inside a special software.<br>
+- You can use the following guide for
+![Help](https://github.com/user-attachments/assets/1325d614-6dd0-438f-b5dc-d2db480385d0)
+<br><br>
 #### - This package was developed in *|``` Unity 5.6.7 ```|*, so you can use it in any version of Unity.
 <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=unity"> <br><br>
 
