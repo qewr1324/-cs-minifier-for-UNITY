@@ -1,11 +1,13 @@
 <p align="center">
    <img src="https://img.shields.io/badge/Version-1.4.0-abcdef?style=flat">
    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
-   <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white">
-   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white">
+   <img src="https://img.shields.io/badge/Unity%205.6.7-black?style=flat&logo=unity">
    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white">
    <img src="https://img.shields.io/badge/Apache%20Licence-2.0-0091ea?style=flat&labelColor=0071b7">
 </p>
+<https://img.shields.io/badge/Unity%205.6.7-black?style=flat&logo=unity>
+<https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white>
+<https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white>
 
 
 # -cs-minifier-for-UNITY
