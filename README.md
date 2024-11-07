@@ -10,7 +10,7 @@
 <https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white>
 
 
-# -cs-minifier-for-UNITY
+# -cs-minifier-for-UNITY-
 ## 🧃 cs-minifier for minify c-sharp scripts in UNITY
 
  🏷 A package for ```minifying C#``` code. This package is for ```spaces```, ```line breaks```, etc. in C# code.
