@@ -17,6 +17,10 @@
 editor.cs
 minifier.cs
 ```
+You can also use the */```cs-minifier Render```/* video for how to use the package.
+```
+cs-minifier Render.mp4
+```
 I made this package for other than Unity and I didn't make it completely for Unity, this is a part of
 It is a project that is supposed to be used inside a special software.
 You can use the following guide for <br><br>
