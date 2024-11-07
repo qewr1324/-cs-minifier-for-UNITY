@@ -27,6 +27,8 @@ cs-minifier Render.mp4
 I made this package for other than Unity and I didn't make it completely for Unity, this is a part of
 It is a project that is supposed to be used inside a special software.
 You can use the following guide for <br><br>
+#### - This package was developed in *|``` Unity 5.6.7 ```|*, so you can use it in any version of Unity.
+<img src="https://img.shields.io/badge/Unity-black?style=flat&logo=unity"> <br><br>
 
 ## 📍Note: Before using the package, remove all *```//Comments```* from your file.<br>
   <hr>
